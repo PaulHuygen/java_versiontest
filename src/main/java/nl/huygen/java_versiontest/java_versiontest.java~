@@ -1,0 +1,12 @@
+package nl.huygen.java_versiontest;
+
+String version = "0.0.0"
+
+Public class Versiontest {
+
+    public String get_version{
+       return version
+    } 
+  
+}
+
