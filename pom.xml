@@ -6,7 +6,7 @@
 
     <groupId>com.github.PaulHuygen</groupId>
     <artifactId>java_versiontest</artifactId>
-    <version>v0.0.1</version>
+    <version>v0.0.1-SNAPSHOT</version>
 
     <packaging>jar</packaging>
     <name>Versiontest</name>
